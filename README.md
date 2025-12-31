@@ -38,4 +38,10 @@ The **BF16 transprecision path** is included in the RTL for architectural comple
 
 ---
 
-## Repository Structure
+## Summary
+This project demonstrates how **predictive, operand-aware mixed-precision arithmetic** can significantly reduce power and area while maintaining correctness for error-tolerant workloads such as AI inference.
+
+---
+
+## License
+For academic and research use.
