@@ -45,3 +45,10 @@ This project demonstrates how **predictive, operand-aware mixed-precision arithm
 
 ## License
 For academic and research use.
+
+---
+
+## Author
+SRI HARI A S
+B.Tech Electronics and Communicaton
+sriharias2204@gmail.com
